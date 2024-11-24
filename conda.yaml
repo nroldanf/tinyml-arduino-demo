@@ -1,0 +1,8 @@
+name: tinyml-arduino
+channels:
+  - defaults
+dependencies:
+  - pip=21.2.4
+  - python=3.9
+  - pip:
+    - -r requirements.txt
