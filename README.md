@@ -120,3 +120,8 @@ Haga click en `upload` en la parte superior izquierda del IDE para compilar y su
 - [xor_train.py](emlearn/xor_train.py): Entrena el modelo de scikit-learn y exporta el header para hacerlo compatible con Arduino.
 - [xor_predict.ino](emlearn/xor_predict.ino): Entrypoint de arduino, define la acción a tomar basada en la salida del modelo.
 - [xor_model.h](emlearn/xor_model.h): Archivo generado automáticamente por el emlearn que contiene el código para generar predicciones con el modelo de scikit-learn entrenado.
+
+## Referencias
+
+- TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers. Capítulos 7 y 8.
+- Getting started on hardware (Arduino): https://emlearn.readthedocs.io/en/latest/getting_started_arduino.html
