@@ -1,17 +1,17 @@
 # Machine Learning en Sistemas Embebidos
 
-En este repositorio se puede encontrar el código fuente correspondiente a los demos de "Wake word detection con Tensorflow + LiteRT" y "Predicción de XOR con scikilearn + emlearn" presentados cómo proyecto final para la materia "Machine Learning for Engineering (IBIO-4711)" impartida por el profesor Luis Felipe Jaramillo en la Universidad de Los Andes - Colombia.
+En este repositorio se puede encontrar el código fuente correspondiente a los demos de "Wake word detection con Tensorflow + LiteRT" y "Predicción de XOR con scikilearn + emlearn" presentados cómo proyecto final para la materia "Machine Learning for Engineering (IBIO-4711)" impartida por el profesor Luis Felipe Giraldo Trujillo en la Universidad de Los Andes - Colombia.
 
 Integrantes:
 - Meliza Benjumea
 - Camilo Lara
 - Nicolás Roldán
 
-## Detección de palabra clave
+## Detección de palabra clave - Tensorflow
 
 >Nota: Se recomienda correr el siguiente notebook dentro de Google Colab.
 
-### Entrenar un nuevo modelo
+### Entrenar un nuevo modelo - Scikit Learn
 
 Dos modelos diferentes ya fueron previamente entrenados:
 - [lite_rt_left_right](lite_rt_left_right): Reconoce las palabras "left" and "right", además de "unknown" y "silence".
